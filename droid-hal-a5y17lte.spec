@@ -15,6 +15,8 @@
 
 
 %define straggler_files \
+/res\
+/efs\
 /bugreports\
 /d\
 /plat_file_contexts\
