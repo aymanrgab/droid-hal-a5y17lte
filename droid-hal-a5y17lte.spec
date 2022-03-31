@@ -15,24 +15,10 @@
 
 
 %define straggler_files \
-/res\
-/efs\
 /bugreports\
 /d\
-/plat_file_contexts\
-/plat_hwservice_contexts\
-/plat_property_contexts\
-/plat_seapp_contexts\
-/plat_service_contexts\
 /product\
 /sdcard\
-/vendor\
-/vendor_file_contexts\
-/vendor_hwservice_contexts\
-/vendor_property_contexts\
-/vendor_seapp_contexts\
-/vendor_service_contexts\
-/vndservice_contexts\
 %{nil}
 
 %include rpm/dhd/droid-hal-device.inc
