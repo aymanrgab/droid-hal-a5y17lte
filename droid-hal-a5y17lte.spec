@@ -22,14 +22,13 @@
 /plat_property_contexts\
 /plat_seapp_contexts\
 /plat_service_contexts\
-/product\
+/nonplat_file_contexts\
+/nonplat_hwservice_contexts\
+/nonplat_property_contexts\
+/nonplat_seapp_contexts\
+/nonplat_service_contexts\
 /sdcard\
 /vendor\
-/vendor_file_contexts\
-/vendor_hwservice_contexts\
-/vendor_property_contexts\
-/vendor_seapp_contexts\
-/vendor_service_contexts\
 /vndservice_contexts\
 %{nil}
 
